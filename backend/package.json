@@ -1,5 +1,5 @@
 {
-  "name": "fullstack_fatz",
+  "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "romina_Navarrete",
   "license": "ISC",
-  "description": "",
+  "description": " Plataforma Interactiva para la Comunidad Viajera",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",

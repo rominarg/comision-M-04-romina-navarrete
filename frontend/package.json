@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "private": true,
+  "description": " Plataforma Interactiva para la Comunidad Viajera",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
