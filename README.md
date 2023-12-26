@@ -65,7 +65,7 @@ Para asegurar una experiencia visualmente atractiva y personalizada, se brindar�
 
 5. Abre MongoDB Compass y asegúrate de que el servicio `mongod.exe` esté en ejecución.
 
-## Realizar Peticiones con Thunder Client:
+## Realizar Peticiones con Thunder Client en Visual Studio Code:
 
 1. Agregar un Comentario a un Post Específico
 
