@@ -38,7 +38,9 @@ Para asegurar una experiencia visualmente atractiva y personalizada, se brindar�
 - **Express Validator:** Middleware que simplifica la validación de datos en aplicaciones Express, asegurando la integridad de la información procesada.
 - **JSON Web Token (JWT):** Herramienta utilizada para autenticación y autorización, proporcionando un método seguro para transmitir información entre partes confiables en forma de tokens codificados.
 
-## Backend
+<p align="center">
+  <strong>Backend</strong>
+</p>
 
 ## Requisitos:
 - Instalacion de Node.js 
