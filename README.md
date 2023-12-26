@@ -6,6 +6,7 @@
 ![React DOM](https://img.shields.io/badge/ReactDOM-18.x-orange)
 ![React DOM](https://img.shields.io/badge/ReactRouterDOM-18.x-green)
 ![Axios](https://img.shields.io/badge/Axios-1.x-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.x-blueviolet)
 
 # Proyecto Final - Épica Tramo III -  Full Stack
 
@@ -27,15 +28,15 @@ Para asegurar una experiencia visualmente atractiva y personalizada, se brindar�
 
 ### Backend:
 
-- **MongoDB:** Base de datos NoSQL para almacenar datos.
-- **Express:** Framework web para Node.js.
-- **Node.js:** Entorno de ejecución para JavaScript del lado del servidor.
-- **Cors:** Middleware para permitir solicitudes de recursos desde un dominio diferente al dominio del servidor.
-- **Dotenv:** Herramienta para cargar variables de entorno desde un archivo `.env`.
-- **Helmet:** Middleware para configurar diversos encabezados HTTP para mejorar la seguridad.
-- **Morgan:** Middleware para registrar solicitudes HTTP.
-- **Express Validator:** Middleware para validación de datos en Express.
-- **JSON Web Token (JWT):** Para autenticación y autorización.
+- **MongoDB:** Sistema de gestión de bases de datos NoSQL (No relacional) que ofrece una solución flexible y escalable para almacenar y recuperar datos de manera eficiente.
+- **Express:** Framework web robusto y minimalista diseñado para Node.js, facilitando la construcción de aplicaciones web y APIs.
+- **Node.js:** Entorno de ejecución del lado del servidor que permite ejecutar JavaScript de manera eficiente y escalable, proporcionando un ambiente ideal para construir aplicaciones web y servicios backend.
+- **Cors:** Middleware que habilita el intercambio de recursos entre diferentes dominios, mejorando la interoperabilidad en entornos de desarrollo web distribuidos.
+- **Dotenv:** Herramienta que facilita la carga de variables de entorno desde un archivo .env, mejorando la configuración y seguridad en el manejo de configuraciones sensibles.
+- **Helmet:** Middleware diseñado para Express que establece headers HTTP de manera segura, mejorando la protección y seguridad de la aplicación.
+- **Morgan:** Middleware que registra de manera detallada las solicitudes HTTP, proporcionando información valiosa para el monitoreo y depuración de la aplicación.
+- **Express Validator:** Middleware que simplifica la validación de datos en aplicaciones Express, asegurando la integridad de la información procesada.
+- **JSON Web Token (JWT):** Herramienta utilizada para autenticación y autorización, proporcionando un método seguro para transmitir información entre partes confiables en forma de tokens codificados.
 
 ## Backend
 
@@ -121,11 +122,11 @@ Uso: Envia una solicitud POST a esta ruta para cerrar sesión del usuario autent
 
 ## Tecnologías Utilizadas
 
-- **React:** Biblioteca de JavaScript para construir interfaces de usuario.
-- **Vite:** Bundler rápido para proyectos React.
-- **React-DOM:** Para la manipulación del DOM en aplicaciones React.
-- **React-Router-DOM:** Para la navegación en la aplicación.
-- **Bootstrap:** Framework de diseño para estilos y componentes.
+- **React:** Biblioteca de JavaScript para la creación eficiente de interfaces de usuario interactivas y dinámicas.
+- **Vite:** Bundler rápido diseñado específicamente para proyectos React, optimizando la velocidad de desarrollo.
+- **React-DOM:** Facilita la manipulación eficaz del Modelo de Objetos del Documento (DOM) en aplicaciones construidas con React.
+- **React-Router-DOM:** Proporciona herramientas poderosas para gestionar la navegación de manera declarativa en aplicaciones React.
+- **Tailwind CSS:** Framework de utilidades de diseño que ofrece un enfoque altamente modular y personalizable mediante la asignación directa de clases predefinidas para construir estilos y componentes de manera eficiente en aplicaciones web.
 
 1 - Creamos el proyecto Vite
 ```bash
