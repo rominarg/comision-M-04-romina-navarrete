@@ -116,11 +116,9 @@ POST localhost:3000/api/logout
 Descripción: Cierra sesión del usuario autenticado.
 Uso: Envia una solicitud POST a esta ruta para cerrar sesión del usuario autenticado.
 
-------------------------------------------------------
+## Tecnologías Utilizadas
 
 ## <p align="center"><strong>Frontend</strong></p>
-
-## Tecnologías Utilizadas
 
 - **React:** Biblioteca de JavaScript para la creación eficiente de interfaces de usuario interactivas y dinámicas.
 - **Vite:** Bundler rápido diseñado específicamente para proyectos React, optimizando la velocidad de desarrollo.
