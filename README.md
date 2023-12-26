@@ -6,6 +6,7 @@
 ![React DOM](https://img.shields.io/badge/ReactDOM-18.x-orange)
 ![React DOM](https://img.shields.io/badge/ReactRouterDOM-18.x-green)
 ![Axios](https://img.shields.io/badge/Axios-1.x-blue)
+![Vite](https://img.shields.io/badge/Vite-2.x-yellow)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2.x-blueviolet)
 
 # Proyecto Final - Épica Tramo III -  Full Stack
