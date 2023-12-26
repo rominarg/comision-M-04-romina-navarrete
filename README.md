@@ -26,7 +26,7 @@ Para asegurar una experiencia visualmente atractiva y personalizada, se brindar�
 
 ## Tecnologías Utilizadas (MERN Stack)
 
-### Backend:
+## <p align="center"><strong>Backend</strong></p>
 
 - **MongoDB:** Sistema de gestión de bases de datos NoSQL (No relacional) que ofrece una solución flexible y escalable para almacenar y recuperar datos de manera eficiente.
 - **Express:** Framework web robusto y minimalista diseñado para Node.js, facilitando la construcción de aplicaciones web y APIs.
@@ -37,10 +37,6 @@ Para asegurar una experiencia visualmente atractiva y personalizada, se brindar�
 - **Morgan:** Middleware que registra de manera detallada las solicitudes HTTP, proporcionando información valiosa para el monitoreo y depuración de la aplicación.
 - **Express Validator:** Middleware que simplifica la validación de datos en aplicaciones Express, asegurando la integridad de la información procesada.
 - **JSON Web Token (JWT):** Herramienta utilizada para autenticación y autorización, proporcionando un método seguro para transmitir información entre partes confiables en forma de tokens codificados.
-
-<p align="center">
-  <strong>Backend</strong>
-</p>
 
 ## Requisitos:
 - Instalacion de Node.js 
