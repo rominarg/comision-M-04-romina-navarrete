@@ -116,7 +116,7 @@ POST localhost:3000/api/logout
 Descripción: Cierra sesión del usuario autenticado.
 Uso: Envia una solicitud POST a esta ruta para cerrar sesión del usuario autenticado.
 
-## Frontend
+## <p align="center"><strong>Frontend</strong></p>
 
 ## Tecnologías Utilizadas
 
