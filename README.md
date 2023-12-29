@@ -23,7 +23,7 @@ La tarea central del proyecto consiste en la implementación de tecnologías de 
 
 ## Personalización Estética con Tailwind CSS:
 
-Para asegurar una experiencia visualmente atractiva y personalizada, se brindará a los usuarios la capacidad de personalizar la estética de la plataforma. Utilizando herramientas como **Tailwind CSS**, se permitirá una adaptación precisa del diseño del espacio digital a los requisitos y preferencias específicas de la comunidad de viajeros. Esta metodología ágil de desarrollo CSS facilitará una personalización eficiente y flexible, garantizando que la plataforma refleje de manera única la diversidad y el estilo de cada usuario.
+Para asegurar una experiencia se utilizó la herramientas **Tailwind CSS**, que permite una adaptación precisa del diseño del espacio digital a los requisitos y preferencias específicas de la comunidad de viajeros. Esta metodología ágil de desarrollo CSS facilitará una personalización eficiente y flexible, garantizando que la plataforma refleje de manera única la diversidad y el estilo de cada usuario.
 
 ## Tecnologías Utilizadas (MERN Stack)
 
